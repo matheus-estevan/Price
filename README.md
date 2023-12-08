@@ -3,8 +3,10 @@
 
 <hr>
 
-<img src="./Github/desk-demo.png" alt="desk-demo"></img>
-<img src="./Github/mob-demo.png" alt="mob-demo">
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="./Github/desk-demo.png" alt="desk-demo" width="400"></img>
+    <img src="./Github/mob-demo.png" alt="mob-demo" width="auto"></img>
+</div>
 
 ## Technologies Used 💻
 
